@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0118-pascals-triangle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0118-pascals-triangle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

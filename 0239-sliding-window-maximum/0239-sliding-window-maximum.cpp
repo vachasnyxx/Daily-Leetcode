@@ -1,35 +1,39 @@
 class Solution {
 public:
-    vector<int> maxSlidingWindow(vector<int>& nums, int k) {           // T.C = O(n)   S.C = O(n)
-        deque<int> dq;
-        vector<int> res;
+    vector<int> maxSlidingWindow(vector<int>& nums, int k) {   // T.C = O(n), S.C = O(n)
+        deque<int> dq;   // stores indices of useful elements in current window
+        vector<int> res; // stores final maximums of each window
 
-        // ist window
-
-        for (int i = 0; i < k; i++) {                // T.C = O(k)
-            while (dq.size() > 0 && nums[dq.back()] <= nums[i]) {
+        // Step 1: Process the first window of size k
+        for (int i = 0; i < k; i++) {
+            // Remove all indices whose corresponding values are <= current value
+            // because they can never be maximum if current value is larger
+            while (!dq.empty() && nums[dq.back()] <= nums[i]) {
                 dq.pop_back();
             }
-            dq.push_back(i);
+            dq.push_back(i); // push current index
         }
 
-        for(int i=k; i<nums.size(); i++){               // T.C = O(n-k)
+        // Step 2: Process the rest of the array
+        for (int i = k; i < nums.size(); i++) {
+            // Front of deque always holds index of maximum element for previous window
             res.push_back(nums[dq.front()]);
 
-            // remove not part of current window
-
-            while(dq.size() > 0 && dq.front() <= i-k){
+            // Remove indices that are out of this window (i-k is left boundary)
+            while (!dq.empty() && dq.front() <= i - k) {
                 dq.pop_front();
             }
 
-            //remove the smaller values
-            while (dq.size() > 0 && nums[dq.back()] <= nums[i]) {
+            // Remove all indices whose values are <= current value
+            // because current value dominates them
+            while (!dq.empty() && nums[dq.back()] <= nums[i]) {
                 dq.pop_back();
             }
 
-            dq.push_back(i);
+            dq.push_back(i); // push current index
         }
 
+        // Step 3: Add maximum for the last window
         res.push_back(nums[dq.front()]);
 
         return res;

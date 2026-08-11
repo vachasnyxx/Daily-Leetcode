@@ -16,6 +16,7 @@
 | [0239-sliding-window-maximum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -38,6 +39,7 @@
 | [0053-maximum-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

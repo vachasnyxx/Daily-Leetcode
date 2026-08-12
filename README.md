@@ -25,6 +25,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@
 | [0152-maximum-product-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

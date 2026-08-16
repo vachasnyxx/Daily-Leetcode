@@ -89,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 ## Prefix Sum
@@ -131,6 +132,7 @@
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -150,6 +152,7 @@
 | [0205-isomorphic-strings](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |

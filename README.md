@@ -90,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -134,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -154,6 +156,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0076-minimum-window-substring](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0242-valid-anagram/) | Easy |

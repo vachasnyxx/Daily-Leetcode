@@ -168,6 +168,7 @@
 | [0242-valid-anagram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0472-concatenated-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0567-permutation-in-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Manacher
@@ -182,4 +183,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0472-concatenated-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0472-concatenated-words/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->

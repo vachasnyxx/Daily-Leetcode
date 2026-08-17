@@ -20,6 +20,7 @@
 | [0472-concatenated-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0704-binary-search](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |

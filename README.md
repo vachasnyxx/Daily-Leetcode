@@ -35,6 +35,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -109,6 +110,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Divide and Conquer

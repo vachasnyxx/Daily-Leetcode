@@ -44,6 +44,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +153,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,4 +254,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
+| [2439-minimize-maximum-of-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 <!---LeetCode Topics End-->

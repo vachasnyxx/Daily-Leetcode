@@ -121,6 +121,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
@@ -200,6 +201,7 @@
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +255,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2439-minimize-maximum-of-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 <!---LeetCode Topics End-->

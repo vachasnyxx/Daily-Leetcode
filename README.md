@@ -40,6 +40,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@
 | [0658-find-k-closest-elements](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -239,4 +242,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -100,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -111,6 +113,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |

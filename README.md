@@ -208,6 +208,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
@@ -268,4 +269,8 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2439-minimize-maximum-of-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->

@@ -64,6 +64,7 @@
 | [0633-sum-of-square-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +239,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,4 +288,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 <!---LeetCode Topics End-->

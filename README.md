@@ -50,6 +50,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,4 +314,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0494-target-sum/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 <!---LeetCode Topics End-->

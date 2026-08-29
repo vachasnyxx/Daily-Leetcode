@@ -17,6 +17,7 @@
 | [0054-spiral-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -292,4 +293,12 @@
 | ------- | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->

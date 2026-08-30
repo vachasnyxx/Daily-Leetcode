@@ -45,6 +45,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
@@ -280,6 +281,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2439-minimize-maximum-of-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |

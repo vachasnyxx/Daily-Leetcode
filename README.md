@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
@@ -310,6 +311,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0494-target-sum/) | Medium |

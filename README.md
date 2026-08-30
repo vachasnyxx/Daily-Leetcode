@@ -224,6 +224,7 @@
 | [0523-continuous-subarray-sum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
+| [1922-count-good-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +291,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0050-powx-n/) | Medium |
+| [1922-count-good-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |

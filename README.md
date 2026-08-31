@@ -316,6 +316,7 @@
 | [0046-permutations](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0494-target-sum/) | Medium |
 ## Bit Manipulation

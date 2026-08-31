@@ -255,6 +255,7 @@
 | [0459-repeated-substring-pattern](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0472-concatenated-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0567-permutation-in-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -267,6 +268,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0472-concatenated-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0472-concatenated-words/) | Hard |
+| [0606-construct-string-from-binary-tree](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,4 +348,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 <!---LeetCode Topics End-->

@@ -46,6 +46,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -123,6 +124,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +188,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +235,7 @@
 | [0633-sum-of-square-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -303,6 +307,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## Counting
 | Problem Name | Difficulty |

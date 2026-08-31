@@ -361,4 +361,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 <!---LeetCode Topics End-->

@@ -242,6 +242,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1922-count-good-numbers/) | Medium |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +320,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1922-count-good-numbers/) | Medium |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,6 +345,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |

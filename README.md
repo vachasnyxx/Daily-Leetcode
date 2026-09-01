@@ -274,11 +274,13 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0472-concatenated-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0606-construct-string-from-binary-tree](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0472-concatenated-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0472-concatenated-words/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |

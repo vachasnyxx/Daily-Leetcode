@@ -281,6 +281,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 | [0472-concatenated-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0472-concatenated-words/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |

@@ -57,6 +57,7 @@
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3394-check-if-grid-can-be-cut-into-sections/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@
 | [0054-spiral-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +228,7 @@
 | [0567-permutation-in-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Math
@@ -340,6 +343,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,4 +381,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 <!---LeetCode Topics End-->

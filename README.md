@@ -127,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Binary Search
@@ -269,6 +270,7 @@
 | [0472-concatenated-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0567-permutation-in-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -320,6 +322,7 @@
 | [0050-powx-n](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |

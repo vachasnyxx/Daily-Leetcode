@@ -244,6 +244,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1922-count-good-numbers/) | Medium |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 ## Pigeonhole Principle
@@ -346,6 +347,7 @@
 | [0077-combinations](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0494-target-sum/) | Medium |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

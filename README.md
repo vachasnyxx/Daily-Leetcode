@@ -59,6 +59,7 @@
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3394-check-if-grid-can-be-cut-into-sections/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +248,7 @@
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
+| [3876-construct-uniform-parity-array-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |

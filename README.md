@@ -60,6 +60,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +190,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |

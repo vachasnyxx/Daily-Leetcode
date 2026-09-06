@@ -86,6 +86,7 @@
 | [0022-generate-parentheses](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0115-distinct-subsequences](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -265,6 +266,7 @@
 | [0022-generate-parentheses](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0115-distinct-subsequences](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |

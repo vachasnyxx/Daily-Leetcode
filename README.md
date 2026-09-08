@@ -253,6 +253,7 @@
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
+| [3870-count-commas-in-range](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |

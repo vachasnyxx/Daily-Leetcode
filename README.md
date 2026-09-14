@@ -398,6 +398,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |

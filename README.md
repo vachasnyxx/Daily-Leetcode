@@ -76,6 +76,7 @@
 | [0125-valid-palindrome](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0344-reverse-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -119,6 +120,7 @@
 | [0015-3sum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0148-sort-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0242-valid-anagram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0472-concatenated-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -176,6 +178,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Sliding Window
@@ -421,6 +424,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -444,6 +448,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0148-sort-list/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

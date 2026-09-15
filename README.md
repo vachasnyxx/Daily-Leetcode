@@ -72,6 +72,7 @@
 | [0042-trapping-rain-water](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0344-reverse-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -232,6 +233,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0141-linked-list-cycle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -404,6 +406,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -417,4 +420,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->

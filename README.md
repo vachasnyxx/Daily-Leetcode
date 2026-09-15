@@ -53,6 +53,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -133,6 +134,7 @@
 | [0054-spiral-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -140,6 +142,7 @@
 | [0054-spiral-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -418,6 +421,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -351,6 +351,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -428,6 +429,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |

@@ -11,40 +11,41 @@
 
 class Solution {
 public:
+    ListNode* reverseList(ListNode* head) {
+        if (head == NULL || head->next == NULL)
+            return head;
+        ListNode* newHead = reverseList(head->next);
+        head->next->next = head;
+        head->next = NULL;
+        return newHead;
+    }
     void reorderList(ListNode* head) {
-        if (!head || !head->next || !head->next->next) return;
-
-        // Step 1: Find the middle of the list
         ListNode* slow = head;
         ListNode* fast = head;
-        while (fast->next && fast->next->next) {
+        while(fast->next != NULL && fast->next->next != NULL){
             slow = slow->next;
             fast = fast->next->next;
         }
+        // slow is at the left middle / middle
 
-        // Step 2: Reverse the second half
-        ListNode* prev = nullptr;
-        ListNode* curr = slow->next;
-        while (curr) {
-            ListNode* nextNode = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nextNode;
+        ListNode* b = reverseList(slow->next);
+        ListNode* a = head;
+        slow->next = NULL; // for breaking the list
+        // merge these two - a and b, alternatively
+        ListNode* c = new ListNode(10);
+        ListNode* tempC = c;
+        ListNode* tempA = a;
+        ListNode* tempB = b;
+        while(tempA != NULL && tempB != NULL){   // while(tempA && tempB)
+            tempC->next = tempA;
+            tempA = tempA->next;
+            tempC = tempC->next;
+
+            tempC->next = tempB;
+            tempB = tempB->next;
+            tempC = tempC->next;
         }
-        slow->next = nullptr; // cut the list into two halves
-
-        // Step 3: Merge two halves
-        ListNode* first = head;
-        ListNode* second = prev;
-        while (second) {
-            ListNode* temp1 = first->next;
-            ListNode* temp2 = second->next;
-
-            first->next = second;
-            second->next = temp1;
-
-            first = temp1;
-            second = temp2;
-        }
+        tempC->next = tempA;
+        head = c->next;
     }
 };

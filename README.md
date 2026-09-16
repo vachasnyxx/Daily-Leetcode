@@ -428,6 +428,7 @@
 | [0061-rotate-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0086-partition-list/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0148-sort-list/) | Medium |

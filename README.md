@@ -89,6 +89,7 @@
 | [0658-find-k-closest-elements](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Dynamic Programming
@@ -444,6 +445,7 @@
 | [0382-linked-list-random-node](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0707-design-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |

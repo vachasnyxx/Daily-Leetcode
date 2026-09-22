@@ -91,6 +91,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@
 | [0042-trapping-rain-water](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -450,6 +452,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |

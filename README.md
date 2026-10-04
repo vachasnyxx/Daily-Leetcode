@@ -18,6 +18,7 @@
 | [0051-n-queens](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0063-unique-paths-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0078-subsets/) | Medium |
@@ -101,6 +102,7 @@
 | [0022-generate-parentheses](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0063-unique-paths-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -143,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0063-unique-paths-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |

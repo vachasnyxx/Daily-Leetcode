@@ -122,10 +122,12 @@
 | [0234-palindrome-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [2487-remove-nodes-from-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -376,6 +378,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1922-count-good-numbers/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 ## Counting
@@ -465,6 +468,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |

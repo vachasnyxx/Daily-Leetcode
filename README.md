@@ -26,6 +26,7 @@
 | [0118-pascals-triangle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0169-majority-element](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0472-concatenated-words/) | Hard |
@@ -135,6 +136,7 @@
 | [0047-permutations-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0472-concatenated-words](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -194,6 +196,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Sliding Window
@@ -262,6 +265,7 @@
 | [0141-linked-list-cycle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -385,6 +389,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -505,4 +510,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

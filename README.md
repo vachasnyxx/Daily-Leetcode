@@ -104,6 +104,7 @@
 | [0042-trapping-rain-water](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0070-climbing-stairs](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -282,6 +283,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0382-linked-list-random-node](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -479,6 +481,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |

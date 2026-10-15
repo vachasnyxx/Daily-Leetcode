@@ -161,6 +161,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0412-fizz-buzz](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
@@ -287,6 +288,7 @@
 | [0070-climbing-stairs](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0382-linked-list-random-node](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
+| [0412-fizz-buzz](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -320,6 +322,7 @@
 | [0242-valid-anagram](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/vachasnyxx/Daily-Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
